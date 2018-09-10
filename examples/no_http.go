@@ -2,11 +2,10 @@ package main
 
 import (
 	"fmt"
+	"github.com/DSiSc/monkey"
 	"net/http"
 	"reflect"
 	"strings"
-
-	"bou.ke/monkey"
 )
 
 func main() {

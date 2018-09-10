@@ -2,10 +2,9 @@ package main
 
 import (
 	"fmt"
+	"github.com/DSiSc/monkey"
 	"os"
 	"strings"
-
-	"bou.ke/monkey"
 )
 
 func main() {
